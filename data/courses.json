@@ -1,0 +1,27 @@
+[
+    {
+        "id":"0",
+        "name":"Node+GraphQL",
+        "description":"Curso de Node y GraphQL para capacitación FullStack"
+    },
+    {
+        "id":"1",
+        "name":"React",
+        "description":"Curso de React para capacitación FullStack"
+    },
+    {
+        "id":"2",
+        "name":"React Native",
+        "description":"Curso de React Native para capacitación FullStack"
+    },
+    {
+        "id":"3",
+        "name":"Configuration Management",
+        "description":"Curso de Configuration Management para capacitación FullStack"
+    },
+    {
+        "id":"4",
+        "name":"Javascript",
+        "description":"Curso de Javascript para capacitación FullStack"
+    }
+]

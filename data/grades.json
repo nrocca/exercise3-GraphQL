@@ -1,0 +1,32 @@
+[
+    {
+        "id":"0",
+        "courseId":"0",
+        "studentId":"0",
+        "grade":"6.58"
+    },
+    {
+        "id":"1",
+        "courseId":"1",
+        "studentId":"0",
+        "grade":"5.42"
+    },
+    {
+        "id":"2",
+        "courseId":"2",
+        "studentId":"0",
+        "grade":"8.01"
+    },
+    {
+        "id":"3",
+        "courseId":"3",
+        "studentId":"0",
+        "grade":"9.12"
+    },
+    {
+        "id":"4",
+        "courseId":"4",
+        "studentId":"0",
+        "grade":"7.67"
+    }
+]
